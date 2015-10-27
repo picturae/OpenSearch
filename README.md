@@ -1,0 +1,2 @@
+# OpenSearch
+Picturae OpenSearch Library
